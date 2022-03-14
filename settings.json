@@ -1,0 +1,33 @@
+{
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html",
+        "javaScript":"javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "terminal.integrated.tabs.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+     },
+     "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+     },
+     "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+     },
+     "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "files.eol": "auto",
+    "bracketPairColorizer.depreciation-notice": false
+   
+}
